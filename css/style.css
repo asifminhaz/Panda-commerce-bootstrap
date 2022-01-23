@@ -1,0 +1,12 @@
+.panda-info{
+    background-color: bisque;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    color: aliceblue;
+    background-color: fuchsia;
+    border: none;
+    border-radius: 5px;
+}
